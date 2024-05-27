@@ -15,8 +15,17 @@ namespace MyApp
             produto.Preco = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
             Console.Write("Quantidade dele no estoque: ?");
             produto.Quantidade = int.Parse(Console.ReadLine());
-            Console.WriteLine("");
+            Console.WriteLine("Dados do produto: " + produto);
+            Console.Write("Digite o numero de produtos a ser adicionado no estoque: ");
 
+
+            int qte = int.Parse(Console.ReadLine());
+            p.AdicionarProdtuos(qte);
+            Console.WriteLine("Dados do produto: " + produto);
+            Console.Write("Digite o numero de produtos a ser removido do estoque: ");
+            qte = int.Parse(Console.ReadLine());
+            p.RemoverProdtuos(qte);
+            Console.WriteLine("Dados do produto: " + produto);
         }
     }
 }

@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Triangulo_SemOOP
-build_property.ProjectDir = c:\Users\adryano.chavier\Documents\UdemyCSharpOOP\Triangulo_SemOOP\
+build_property.ProjectDir = C:\Users\36124872022.2N\Documents\UdemyCsharpOOP\Triangulo_SemOOP\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
