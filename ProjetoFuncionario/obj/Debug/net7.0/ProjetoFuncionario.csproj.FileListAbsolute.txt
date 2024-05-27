@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoFuncionario\bin\Debug\net7.0\ProjetoFuncionario.exe
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoFuncionario\bin\Debug\net7.0\ProjetoFuncionario.deps.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoFuncionario\bin\Debug\net7.0\ProjetoFuncionario.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoFuncionario\bin\Debug\net7.0\ProjetoFuncionario.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoFuncionario\bin\Debug\net7.0\ProjetoFuncionario.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoFuncionario\obj\Debug\net7.0\ProjetoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoFuncionario\obj\Debug\net7.0\ProjetoFuncionario.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoFuncionario\obj\Debug\net7.0\ProjetoFuncionario.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoFuncionario\obj\Debug\net7.0\ProjetoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoFuncionario\obj\Debug\net7.0\ProjetoFuncionario.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoFuncionario\obj\Debug\net7.0\refint\ProjetoFuncionario.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoFuncionario\obj\Debug\net7.0\ProjetoFuncionario.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoFuncionario\obj\Debug\net7.0\ProjetoFuncionario.genruntimeconfig.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoFuncionario\obj\Debug\net7.0\ref\ProjetoFuncionario.dll

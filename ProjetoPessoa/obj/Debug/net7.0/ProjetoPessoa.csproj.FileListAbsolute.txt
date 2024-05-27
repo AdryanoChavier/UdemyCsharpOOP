@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPessoa\bin\Debug\net7.0\ProjetoPessoa.exe
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPessoa\bin\Debug\net7.0\ProjetoPessoa.deps.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPessoa\bin\Debug\net7.0\ProjetoPessoa.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPessoa\bin\Debug\net7.0\ProjetoPessoa.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPessoa\bin\Debug\net7.0\ProjetoPessoa.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPessoa\obj\Debug\net7.0\ProjetoPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPessoa\obj\Debug\net7.0\ProjetoPessoa.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPessoa\obj\Debug\net7.0\ProjetoPessoa.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPessoa\obj\Debug\net7.0\ProjetoPessoa.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPessoa\obj\Debug\net7.0\ProjetoPessoa.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPessoa\obj\Debug\net7.0\refint\ProjetoPessoa.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPessoa\obj\Debug\net7.0\ProjetoPessoa.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPessoa\obj\Debug\net7.0\ProjetoPessoa.genruntimeconfig.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPessoa\obj\Debug\net7.0\ref\ProjetoPessoa.dll
