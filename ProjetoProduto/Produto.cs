@@ -1,4 +1,4 @@
-using System.Globalization
+using System.Globalization;
 
 namespace ProjetoProduto;
 
@@ -21,6 +21,9 @@ public class Produto{
         Quantidade -= quantidade;
 
     }
+
+
+
 
 
 

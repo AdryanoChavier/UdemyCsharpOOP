@@ -13,3 +13,17 @@ C:\Users\36124872022.2N\Documents\UdemyCsharpOOP\ProjetoProduto\obj\Debug\net7.0
 C:\Users\36124872022.2N\Documents\UdemyCsharpOOP\ProjetoProduto\obj\Debug\net7.0\ProjetoProduto.pdb
 C:\Users\36124872022.2N\Documents\UdemyCsharpOOP\ProjetoProduto\obj\Debug\net7.0\ProjetoProduto.genruntimeconfig.cache
 C:\Users\36124872022.2N\Documents\UdemyCsharpOOP\ProjetoProduto\obj\Debug\net7.0\ref\ProjetoProduto.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoProduto\bin\Debug\net7.0\ProjetoProduto.exe
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoProduto\bin\Debug\net7.0\ProjetoProduto.deps.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoProduto\bin\Debug\net7.0\ProjetoProduto.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoProduto\bin\Debug\net7.0\ProjetoProduto.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoProduto\bin\Debug\net7.0\ProjetoProduto.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoProduto\obj\Debug\net7.0\ProjetoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoProduto\obj\Debug\net7.0\ProjetoProduto.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoProduto\obj\Debug\net7.0\ProjetoProduto.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoProduto\obj\Debug\net7.0\ProjetoProduto.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoProduto\obj\Debug\net7.0\ProjetoProduto.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoProduto\obj\Debug\net7.0\refint\ProjetoProduto.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoProduto\obj\Debug\net7.0\ProjetoProduto.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoProduto\obj\Debug\net7.0\ProjetoProduto.genruntimeconfig.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoProduto\obj\Debug\net7.0\ref\ProjetoProduto.dll

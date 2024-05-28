@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoProduto", "ProjetoPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoRetangulo", "ProjetoRetangulo\ProjetoRetangulo.csproj", "{2B41737E-61B3-4B87-9EEB-90EB4AFF3BE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoConversodeMoeda", "ProjetoConversodeMoeda\ProjetoConversodeMoeda.csproj", "{A4214A84-4F45-49C1-8E5D-F555372CD89F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{2B41737E-61B3-4B87-9EEB-90EB4AFF3BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B41737E-61B3-4B87-9EEB-90EB4AFF3BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B41737E-61B3-4B87-9EEB-90EB4AFF3BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4214A84-4F45-49C1-8E5D-F555372CD89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4214A84-4F45-49C1-8E5D-F555372CD89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4214A84-4F45-49C1-8E5D-F555372CD89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4214A84-4F45-49C1-8E5D-F555372CD89F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

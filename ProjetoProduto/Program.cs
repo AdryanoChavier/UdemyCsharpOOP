@@ -20,11 +20,11 @@ namespace MyApp
 
 
             int qte = int.Parse(Console.ReadLine());
-            p.AdicionarProdtuos(qte);
+            produto.AdicionarProdtuos(qte);
             Console.WriteLine("Dados do produto: " + produto);
             Console.Write("Digite o numero de produtos a ser removido do estoque: ");
             qte = int.Parse(Console.ReadLine());
-            p.RemoverProdtuos(qte);
+            produto.RemoverProdtuos(qte);
             Console.WriteLine("Dados do produto: " + produto);
         }
     }

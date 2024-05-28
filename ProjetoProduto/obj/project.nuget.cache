@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yej5UAiAgFA=",
+  "dgSpecHash": "C45HMJfQ3bQwNpwl4beCiNzN7P2qFzuOzQfqwl0NL0Y8k/N9hGqY5sVMZcSyjU1RGMfpZ84wfYLuXKfduKkhtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\36124872022.2N\\Documents\\UdemyCsharpOOP\\ProjetoProduto\\ProjetoProduto.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\36124872022.2N\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
-    "C:\\Users\\36124872022.2N\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
-    "C:\\Users\\36124872022.2N\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
-    "C:\\Users\\36124872022.2N\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
-  ],
+  "projectFilePath": "c:\\Users\\adryano.chavier\\Documents\\UdemyCSharpOOP\\ProjetoProduto\\ProjetoProduto.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

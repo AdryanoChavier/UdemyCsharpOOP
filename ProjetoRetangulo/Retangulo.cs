@@ -6,10 +6,10 @@ public class Retangulo
     public double Altura;
 
     public double Area(){
-        return Largura * Altura
+        return Largura * Altura;
     }
     public double Perimetro(){
-        return Largura * 2 + Altura * 2
+        return Largura * 2 + Altura * 2;
     }
 
     public double Diagonal(){
