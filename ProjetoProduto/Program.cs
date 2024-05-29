@@ -8,13 +8,17 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            Produto produto= new Produto();
+            /*Produto produto= new Produto("TV",500.00,10);//Com construtor*/
+
+
+
             Console.Write("Entre com o nome do produto: ");
-            produto.Nome = Console.ReadLine();
+            string nome = Console.ReadLine();
             Console.Write("Qual o preço dele: ");
-            produto.Preco = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
-            Console.Write("Quantidade dele no estoque: ?");
-            produto.Quantidade = int.Parse(Console.ReadLine());
+            double preco = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+        
+            Produto produto = new Produto();
+
             Console.WriteLine("Dados do produto: " + produto);
             Console.Write("Digite o numero de produtos a ser adicionado no estoque: ");
 

@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoSistemaBancario\bin\Debug\net7.0\ProjetoSistemaBancario.exe
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoSistemaBancario\bin\Debug\net7.0\ProjetoSistemaBancario.deps.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoSistemaBancario\bin\Debug\net7.0\ProjetoSistemaBancario.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoSistemaBancario\bin\Debug\net7.0\ProjetoSistemaBancario.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoSistemaBancario\bin\Debug\net7.0\ProjetoSistemaBancario.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoSistemaBancario\obj\Debug\net7.0\ProjetoSistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoSistemaBancario\obj\Debug\net7.0\ProjetoSistemaBancario.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoSistemaBancario\obj\Debug\net7.0\ProjetoSistemaBancario.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoSistemaBancario\obj\Debug\net7.0\ProjetoSistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoSistemaBancario\obj\Debug\net7.0\ProjetoSistemaBancario.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoSistemaBancario\obj\Debug\net7.0\refint\ProjetoSistemaBancario.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoSistemaBancario\obj\Debug\net7.0\ProjetoSistemaBancario.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoSistemaBancario\obj\Debug\net7.0\ProjetoSistemaBancario.genruntimeconfig.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoSistemaBancario\obj\Debug\net7.0\ref\ProjetoSistemaBancario.dll

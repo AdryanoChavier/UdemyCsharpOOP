@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoRetangulo", "Projeto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoConversodeMoeda", "ProjetoConversodeMoeda\ProjetoConversodeMoeda.csproj", "{A4214A84-4F45-49C1-8E5D-F555372CD89F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoSistemaBancario", "ProjetoSistemaBancario\ProjetoSistemaBancario.csproj", "{52B898B9-EC29-4B50-B05D-C18712E85AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoStruct", "ProjetoStruct\ProjetoStruct.csproj", "{8BC9787D-15C9-423D-99DE-78D18F29FCCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +58,13 @@ Global
 		{A4214A84-4F45-49C1-8E5D-F555372CD89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4214A84-4F45-49C1-8E5D-F555372CD89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4214A84-4F45-49C1-8E5D-F555372CD89F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52B898B9-EC29-4B50-B05D-C18712E85AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B898B9-EC29-4B50-B05D-C18712E85AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B898B9-EC29-4B50-B05D-C18712E85AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B898B9-EC29-4B50-B05D-C18712E85AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC9787D-15C9-423D-99DE-78D18F29FCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC9787D-15C9-423D-99DE-78D18F29FCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC9787D-15C9-423D-99DE-78D18F29FCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC9787D-15C9-423D-99DE-78D18F29FCCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
