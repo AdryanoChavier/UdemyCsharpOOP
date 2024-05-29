@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\Nullable\obj\Debug\net7.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\Nullable\obj\Debug\net7.0\Nullable.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\Nullable\obj\Debug\net7.0\Nullable.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\Nullable\obj\Debug\net7.0\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\Nullable\bin\Debug\net7.0\Nullable.exe
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\Nullable\bin\Debug\net7.0\Nullable.deps.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\Nullable\bin\Debug\net7.0\Nullable.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\Nullable\bin\Debug\net7.0\Nullable.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\Nullable\bin\Debug\net7.0\Nullable.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\Nullable\obj\Debug\net7.0\Nullable.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\Nullable\obj\Debug\net7.0\refint\Nullable.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\Nullable\obj\Debug\net7.0\Nullable.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\Nullable\obj\Debug\net7.0\Nullable.genruntimeconfig.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\Nullable\obj\Debug\net7.0\ref\Nullable.dll
