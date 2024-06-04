@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoForeach\obj\Debug\net7.0\ProjetoForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoForeach\obj\Debug\net7.0\ProjetoForeach.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoForeach\obj\Debug\net7.0\ProjetoForeach.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoForeach\obj\Debug\net7.0\ProjetoForeach.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoForeach\bin\Debug\net7.0\ProjetoForeach.exe
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoForeach\bin\Debug\net7.0\ProjetoForeach.deps.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoForeach\bin\Debug\net7.0\ProjetoForeach.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoForeach\bin\Debug\net7.0\ProjetoForeach.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoForeach\bin\Debug\net7.0\ProjetoForeach.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoForeach\obj\Debug\net7.0\ProjetoForeach.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoForeach\obj\Debug\net7.0\refint\ProjetoForeach.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoForeach\obj\Debug\net7.0\ProjetoForeach.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoForeach\obj\Debug\net7.0\ProjetoForeach.genruntimeconfig.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoForeach\obj\Debug\net7.0\ref\ProjetoForeach.dll

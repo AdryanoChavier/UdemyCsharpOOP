@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoModificadodeParametos\bin\Debug\net7.0\ProjetoModificadodeParametos.exe
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoModificadodeParametos\bin\Debug\net7.0\ProjetoModificadodeParametos.deps.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoModificadodeParametos\bin\Debug\net7.0\ProjetoModificadodeParametos.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoModificadodeParametos\bin\Debug\net7.0\ProjetoModificadodeParametos.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoModificadodeParametos\bin\Debug\net7.0\ProjetoModificadodeParametos.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoModificadodeParametos\obj\Debug\net7.0\ProjetoModificadodeParametos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoModificadodeParametos\obj\Debug\net7.0\ProjetoModificadodeParametos.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoModificadodeParametos\obj\Debug\net7.0\ProjetoModificadodeParametos.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoModificadodeParametos\obj\Debug\net7.0\ProjetoModificadodeParametos.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoModificadodeParametos\obj\Debug\net7.0\ProjetoModificadodeParametos.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoModificadodeParametos\obj\Debug\net7.0\refint\ProjetoModificadodeParametos.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoModificadodeParametos\obj\Debug\net7.0\ProjetoModificadodeParametos.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoModificadodeParametos\obj\Debug\net7.0\ProjetoModificadodeParametos.genruntimeconfig.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoModificadodeParametos\obj\Debug\net7.0\ref\ProjetoModificadodeParametos.dll

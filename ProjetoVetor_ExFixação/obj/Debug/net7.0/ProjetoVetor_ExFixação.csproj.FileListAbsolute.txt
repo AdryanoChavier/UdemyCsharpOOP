@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_ExFixação\bin\Debug\net7.0\ProjetoVetor_ExFixação.exe
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_ExFixação\bin\Debug\net7.0\ProjetoVetor_ExFixação.deps.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_ExFixação\bin\Debug\net7.0\ProjetoVetor_ExFixação.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_ExFixação\bin\Debug\net7.0\ProjetoVetor_ExFixação.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_ExFixação\bin\Debug\net7.0\ProjetoVetor_ExFixação.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_ExFixação\obj\Debug\net7.0\ProjetoVetor_ExFixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_ExFixação\obj\Debug\net7.0\ProjetoVetor_ExFixação.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_ExFixação\obj\Debug\net7.0\ProjetoVetor_ExFixação.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_ExFixação\obj\Debug\net7.0\ProjetoVetor_ExFixação.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_ExFixação\obj\Debug\net7.0\ProjetoVetor_ExFixação.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_ExFixação\obj\Debug\net7.0\refint\ProjetoVetor_ExFixação.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_ExFixação\obj\Debug\net7.0\ProjetoVetor_ExFixação.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_ExFixação\obj\Debug\net7.0\ProjetoVetor_ExFixação.genruntimeconfig.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_ExFixação\obj\Debug\net7.0\ref\ProjetoVetor_ExFixação.dll

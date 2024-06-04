@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_Parte2\bin\Debug\net7.0\ProjetoVetor_Parte2.exe
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_Parte2\bin\Debug\net7.0\ProjetoVetor_Parte2.deps.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_Parte2\bin\Debug\net7.0\ProjetoVetor_Parte2.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_Parte2\bin\Debug\net7.0\ProjetoVetor_Parte2.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_Parte2\bin\Debug\net7.0\ProjetoVetor_Parte2.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_Parte2\obj\Debug\net7.0\ProjetoVetor_Parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_Parte2\obj\Debug\net7.0\ProjetoVetor_Parte2.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_Parte2\obj\Debug\net7.0\ProjetoVetor_Parte2.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_Parte2\obj\Debug\net7.0\ProjetoVetor_Parte2.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_Parte2\obj\Debug\net7.0\ProjetoVetor_Parte2.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_Parte2\obj\Debug\net7.0\refint\ProjetoVetor_Parte2.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_Parte2\obj\Debug\net7.0\ProjetoVetor_Parte2.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_Parte2\obj\Debug\net7.0\ProjetoVetor_Parte2.genruntimeconfig.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoVetor_Parte2\obj\Debug\net7.0\ref\ProjetoVetor_Parte2.dll

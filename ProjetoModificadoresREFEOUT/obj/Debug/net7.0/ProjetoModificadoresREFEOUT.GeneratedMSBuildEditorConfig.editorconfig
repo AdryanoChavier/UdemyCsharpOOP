@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Nullable
-build_property.ProjectDir = c:\Users\adryano.chavier\Documents\UdemyCSharpOOP\Nullable\
+build_property.RootNamespace = ProjetoModificadoresREFEOUT
+build_property.ProjectDir = C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoModificadoresREFEOUT\
