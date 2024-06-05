@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoInferenciaVar\bin\Debug\net7.0\ProjetoInferenciaVar.exe
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoInferenciaVar\bin\Debug\net7.0\ProjetoInferenciaVar.deps.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoInferenciaVar\bin\Debug\net7.0\ProjetoInferenciaVar.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoInferenciaVar\bin\Debug\net7.0\ProjetoInferenciaVar.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoInferenciaVar\bin\Debug\net7.0\ProjetoInferenciaVar.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoInferenciaVar\obj\Debug\net7.0\ProjetoInferenciaVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoInferenciaVar\obj\Debug\net7.0\ProjetoInferenciaVar.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoInferenciaVar\obj\Debug\net7.0\ProjetoInferenciaVar.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoInferenciaVar\obj\Debug\net7.0\ProjetoInferenciaVar.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoInferenciaVar\obj\Debug\net7.0\ProjetoInferenciaVar.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoInferenciaVar\obj\Debug\net7.0\refint\ProjetoInferenciaVar.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoInferenciaVar\obj\Debug\net7.0\ProjetoInferenciaVar.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoInferenciaVar\obj\Debug\net7.0\ProjetoInferenciaVar.genruntimeconfig.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoInferenciaVar\obj\Debug\net7.0\ref\ProjetoInferenciaVar.dll

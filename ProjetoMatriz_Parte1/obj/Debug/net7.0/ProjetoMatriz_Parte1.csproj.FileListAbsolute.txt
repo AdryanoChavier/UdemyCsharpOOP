@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoMatriz_Parte1\bin\Debug\net7.0\ProjetoMatriz_Parte1.exe
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoMatriz_Parte1\bin\Debug\net7.0\ProjetoMatriz_Parte1.deps.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoMatriz_Parte1\bin\Debug\net7.0\ProjetoMatriz_Parte1.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoMatriz_Parte1\bin\Debug\net7.0\ProjetoMatriz_Parte1.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoMatriz_Parte1\bin\Debug\net7.0\ProjetoMatriz_Parte1.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoMatriz_Parte1\obj\Debug\net7.0\ProjetoMatriz_Parte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoMatriz_Parte1\obj\Debug\net7.0\ProjetoMatriz_Parte1.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoMatriz_Parte1\obj\Debug\net7.0\ProjetoMatriz_Parte1.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoMatriz_Parte1\obj\Debug\net7.0\ProjetoMatriz_Parte1.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoMatriz_Parte1\obj\Debug\net7.0\ProjetoMatriz_Parte1.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoMatriz_Parte1\obj\Debug\net7.0\refint\ProjetoMatriz_Parte1.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoMatriz_Parte1\obj\Debug\net7.0\ProjetoMatriz_Parte1.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoMatriz_Parte1\obj\Debug\net7.0\ProjetoMatriz_Parte1.genruntimeconfig.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoMatriz_Parte1\obj\Debug\net7.0\ref\ProjetoMatriz_Parte1.dll

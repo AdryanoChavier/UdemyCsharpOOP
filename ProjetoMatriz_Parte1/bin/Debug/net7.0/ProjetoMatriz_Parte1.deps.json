@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ProjetoMatriz_Parte1/1.0.0": {
+        "runtime": {
+          "ProjetoMatriz_Parte1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoMatriz_Parte1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
