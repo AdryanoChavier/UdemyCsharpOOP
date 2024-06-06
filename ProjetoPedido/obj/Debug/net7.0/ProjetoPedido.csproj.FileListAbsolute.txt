@@ -1,0 +1,14 @@
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPedido\bin\Debug\net7.0\ProjetoPedido.exe
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPedido\bin\Debug\net7.0\ProjetoPedido.deps.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPedido\bin\Debug\net7.0\ProjetoPedido.runtimeconfig.json
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPedido\bin\Debug\net7.0\ProjetoPedido.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPedido\bin\Debug\net7.0\ProjetoPedido.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPedido\obj\Debug\net7.0\ProjetoPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPedido\obj\Debug\net7.0\ProjetoPedido.AssemblyInfoInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPedido\obj\Debug\net7.0\ProjetoPedido.AssemblyInfo.cs
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPedido\obj\Debug\net7.0\ProjetoPedido.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPedido\obj\Debug\net7.0\ProjetoPedido.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPedido\obj\Debug\net7.0\refint\ProjetoPedido.dll
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPedido\obj\Debug\net7.0\ProjetoPedido.pdb
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPedido\obj\Debug\net7.0\ProjetoPedido.genruntimeconfig.cache
+C:\Users\adryano.chavier\Documents\UdemyCSharpOOP\ProjetoPedido\obj\Debug\net7.0\ref\ProjetoPedido.dll
